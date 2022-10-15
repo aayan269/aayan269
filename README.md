@@ -1,7 +1,7 @@
 ###                                                           Hi 👋  I'm Aayan Ahmad
 
 <!--
-**aayan269/aayan269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # 💫 About Me:
 I’m currently learning FullStack web Development.
 A passionate web Developer
