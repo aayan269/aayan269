@@ -3,7 +3,11 @@
 <!--
 **aayan269/aayan269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
-I'm currently learning FullStack web Development.<br>A passionate web Developer<br>I'm looking to work in a good Tech Company<br>How to reach me:  ahmadaayn269@gmail.com<br>Fact: I spend more than 12 hours learning a new concept<br><br>
+I’m currently learning FullStack web Development.
+A passionate web Developer
+I’m looking to work in a good Tech Company
+How to reach me: ahmadaayn269@gmail.com
+Fact: I spend more than 12 hours learning a new concept
 
 
 ## 🌐 Socials:
