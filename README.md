@@ -9,7 +9,7 @@
 # 💫 About Me:
 <div display="flex" >
 <div>
-🔭 I’m currently learning FullStack web Development.                                                                                                                   
+🔭 I’m currently learning FullStack web Development.                                                                                                                      
 🌱 A passionate web Developer
 💬 Ask me about MERN
 ⚡ Fun fact - I am creative and I love animals and nature!
