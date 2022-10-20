@@ -7,12 +7,15 @@
 
 
 # 💫 About Me:
+<div>
+<div>
 🔭 I’m currently learning FullStack web Development.
 🌱 A passionate web Developer
 💬 Ask me about MERN
 ⚡ Fun fact - I am creative and I love animals and nature!
 📫 How to reach me: ahmadaayn269@gmail.com
-
+</div>
+</div>
 
 
 ## 🌐 Socials:
