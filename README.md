@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-<div >
+<div style={{display:"flex"}} >
 <div>
 🔭 I’m currently learning FullStack web Development.
 🌱 A passionate web Developer
