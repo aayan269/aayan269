@@ -1,40 +1,82 @@
-### 
+                                                        
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Sumit+KD+Sarkar!;Full+Stack-Web+Developer...👨🏻‍💻;" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<h1 align="center"> 😇(Hello everyone)" 👋</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" />
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+                                                       
+- 🔭 I’m currently working on **MySkill😄**
+- 🌱 I’m currently learning ** (Full-Stack Web Development)**
+- 💬 Ask me about **Front-End**
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://SumitKDSarkar.github.io)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DCCKmZZaRXeRZeFVFy5z3cHHNG3XMRgB/view?usp=sharing)
+- 📫 How to reach me: ...**skumarcbr4@gmail.com**
+- 😄 Pronouns: ...@Sumit
+- ⚡ Fun fact: ...Always smile😄 in tough situation
 
-                                                             Hi 👋  I'm Aayan Ahmad 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+                                                       
+<h2><i>My GitHub Stats</i></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumitKDSarkar&label=Profile%20views&color=0e75b6&style=flat" alt="SumitKDSarkar" /> </p>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SumitKDSarkar&show_icons=true&locale=en&theme=dark" alt="SumitKDSarkar"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKDSarkar&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="SumitKDSarkar" height="139" />
+</p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=SumitKDSarkar&theme=xcode" height ="307"/>
+
+![snake gif](https://github.com/ahtishamkhan5678/ahtishamkhan5678/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 
-# 💫 About Me:
-<div display="flex" >
-<div>
-🔭 I’m currently learning FullStack web Development.                                                                                                                      
-🌱 A passionate web Developer
-💬 Ask me about MERN
-⚡ Fun fact - I am creative and I love animals and nature!
-📫 How to reach me: ahmadaayn269@gmail.com
-</div>
-<div><img   height=" 150px" weight="150px" src="https://camo.githubusercontent.com/28b98b72e1dba363702719021e2183d84cd9d6dd51c055cb9ce1d65cea6a4caa/68747470733a2f2f7777772e73617276696b612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30332f4261636b656e642d446576656c6f7065722d507974686f6e2d4749462d44726962626c652e676966"  /></div>
-</div>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aayan Ahmad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmadaayan169) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aayan ahmad) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aayan269&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aayan269&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayan269&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">  
+                                                         
+<h3 align="left">Connect with me</h3>
+<p align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=aayan269&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://www.linkedin.com/in/sumit-sarkar-09a1a0220//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Sarkar" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCsxwht_uFh_G_iGmfNRs1bQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsxwht_ufh_g_igmfnrs1bq/featured" height="30" width="40" /></a>
+</p>
+ 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mtechviral) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imaayan) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/aayan/sam) 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+                                                          
+
+<h3 align="left">🛠 &nbsp;Tech Stack </h3>
+
+<div align="center">  
 	
-  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongoDB-original-wordmark.svg" alt="mongoDB" height="50" /> 
+
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodeJS-original-wordmark.svg" alt="nodeJS" height="50" />
+  <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="50" />
+
+<!--    -->
+
+<!--    --> 
+
+
+
+
+</div>  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 100%;">
+
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+
