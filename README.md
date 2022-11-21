@@ -61,9 +61,10 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 	
-	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="JavaScript" height="50" /> 
+	<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-redux-original.svg" alt="JavaScript" height="50" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongoDB-original-wordmark.svg" alt="mongoDB" height="50" /> 
 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/expressJS-original-wordmark.svg" alt="expressJS" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodeJS-original-wordmark.svg" alt="nodeJS" height="50" />
   <img style="margin: 10px"  src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="react" height="50" />
 
