@@ -11,9 +11,9 @@
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning ** (Full-Stack Web Development)**
 - 💬 Ask me about **Front-End**
-- 👨‍💻 Some of my projects are available at [My Portfolio](https://SumitKDSarkar.github.io)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1DCCKmZZaRXeRZeFVFy5z3cHHNG3XMRgB/view?usp=sharing)
-- 📫 How to reach me: ...**skumarcbr4@gmail.com**
+- 👨‍💻 Some of my projects are available at [My Portfolio](https://aayan269.github.io)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1gL1gDwbvLJTDfTCTikjEUqqEh5PVU-6x/view?usp=share_link)
+- 📫 How to reach me: ...**ahmadaayan269@gmail.com**
 - 😄 Pronouns: ...@Sumit
 - ⚡ Fun fact: ...Always smile😄 in tough situation
 
@@ -21,11 +21,11 @@
 
                                                        
 <h2><i>My GitHub Stats</i></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumitKDSarkar&label=Profile%20views&color=0e75b6&style=flat" alt="SumitKDSarkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayan269&label=Profile%20views&color=0e75b6&style=flat" alt="SumitKDSarkar" /> </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=SumitKDSarkar&show_icons=true&locale=en&theme=dark" alt="SumitKDSarkar"  height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKDSarkar&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="SumitKDSarkar" height="139" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=aayan269&show_icons=true&locale=en&theme=dark" alt="aayan269"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayan269&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="SumitKDSarkar" height="139" />
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=SumitKDSarkar&theme=xcode" height ="307"/>
