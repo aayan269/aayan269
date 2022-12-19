@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning ** (Full-Stack Web Development)**
 - 💬 Ask me about **Front-End**
 - 👨‍💻 Some of my projects are available at [My Portfolio](https://aayan269.github.io)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1gL1gDwbvLJTDfTCTikjEUqqEh5PVU-6x/view?usp=share_link)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10801Zi9IRPd_OB-Vo7qznzE3kl4fbV4b/view?usp=share_link)
 - 📫 How to reach me: ...**ahmadaayan269@gmail.com**
 - 😄 Pronouns: ...@aayan
 - ⚡ Fun fact: ...Always smile😄 in tough situation
